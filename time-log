@@ -1,0 +1,96 @@
+for 1 iterations:
+
+without goroutines
+answer: 1
+time taken: 5.6e-08
+
+with goroutines
+answer: 1
+time taken: 5.138e-06
+
+------------------------
+
+for 10 iterations:
+
+without goroutines
+answer: 55
+time taken: 7.9e-08
+
+with goroutines
+answer: 55
+time taken: 5.083e-06
+
+------------------------
+
+for 100 iterations:
+
+without goroutines
+answer: 5050
+time taken: 1.04e-07
+
+with goroutines
+answer: 5050
+time taken: 7.217e-06
+
+------------------------
+
+for 1000 iterations:
+
+without goroutines
+answer: 500500
+time taken: 3.62e-07
+
+with goroutines
+answer: 500500
+time taken: 5.275e-06
+
+------------------------
+
+for 10000 iterations:
+
+without goroutines
+answer: 50005000
+time taken: 2.82e-06
+
+with goroutines
+answer: 50005000
+time taken: 8.026e-06
+
+------------------------
+
+for 100000 iterations:
+
+without goroutines
+answer: 5000050000
+time taken: 2.7566e-05
+
+with goroutines
+answer: 5000050000
+time taken: 3.5591e-05
+
+------------------------
+
+for 1000000 iterations:
+
+without goroutines
+answer: 500000500000
+time taken: 0.000245836
+
+with goroutines
+answer: 500000500000
+time taken: 0.000160276
+
+------------------------
+
+for 10000000 iterations:
+
+without goroutines
+answer: 50000005000000
+time taken: 0.002447099
+
+with goroutines
+answer: 50000005000000
+time taken: 0.001377055
+
+------------------------
+
